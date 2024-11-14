@@ -1,0 +1,580 @@
+{
+  "vaultName": "Empire of Steel",
+  "lastExport": 1731551008863,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon CG-workspace-background CG-workspace-background-image-custom CG-MObsidian-sbt CG-custom-checkbox CG-NewObsidian-hr callout-alternate-line img-adj-list",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Background/Acquired Mutation Plasmid Syndrome.md",
+    "Factions/AusTex Response.md",
+    "Factions/Cascadia Pro-Cop.md",
+    "Factions/Dallas Dynamics.md",
+    "Factions/Dell-HP Computing.md",
+    "Factions/National Instruments Combine.md",
+    "Factions/Panzer Hammer.md",
+    "Factions/Spirit Moderns.md",
+    "Factions/Tesla Unlimited.md",
+    "Factions/Vampire Nation.md",
+    "Operations/All Fall Down - Chapter 1.md",
+    "People/Earl Blank.md",
+    "People/Henry Jericho.md",
+    "People/October Tallisi.md",
+    "People/Zero Ballard.md",
+    "Places/Downtown (Austex Corridor Core).md",
+    "Places/Far West Burbclave (Austex Northwest).md",
+    "Places/Old West (Austex West).md",
+    "Places/Southby (Austex Southwest).md",
+    "Places/Techtown (Austex Corridor North).md",
+    "Places/The Austin Metro Area.md",
+    "Places/The Tombs (Austex East).md",
+    "Places/Weirdsville (Austex Corridor South).md",
+    "Places/Windsor Corpo Burbclave (Austex Northeast).md",
+    "Places/Zilker (Austex Southeast).md",
+    "zResources/Austin Metro Area.png",
+    "zResources/background_skyline.png",
+    "zResources/Earl Blank.png",
+    "zResources/Empire of Steel Banner.png",
+    "zResources/October Tallisi.png",
+    "zResources/Zero Ballard.png",
+    "zTemplates/default.md",
+    "zTemplates/faction default.md",
+    "zTemplates/infobox.md",
+    "zTemplates/npc default.md",
+    "zTemplates/pc default.md",
+    "zTemplates/place default.md",
+    "zTemplates/session default.md",
+    "Index.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css",
+    "lib/media/earl-blank.png",
+    "lib/media/october-tallisi.png",
+    "lib/media/zero-ballard.png",
+    "lib/media/austin-metro-area.png",
+    "zresources/empire-of-steel-banner.png"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 18511,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 2439,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 131021,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 846695,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 369,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 15810,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1731551008863,
+      "sourceSize": 85926,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "Factions/AusTex Response.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 64,
+      "exportedPath": "factions/austex-response.html",
+      "dependencies": []
+    },
+    "Factions/Cascadia Pro-Cop.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 59,
+      "exportedPath": "factions/cascadia-pro-cop.html",
+      "dependencies": []
+    },
+    "Factions/Dallas Dynamics.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 59,
+      "exportedPath": "factions/dallas-dynamics.html",
+      "dependencies": []
+    },
+    "Factions/Dell-HP Computing.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 59,
+      "exportedPath": "factions/dell-hp-computing.html",
+      "dependencies": []
+    },
+    "Factions/National Instruments Combine.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 59,
+      "exportedPath": "factions/national-instruments-combine.html",
+      "dependencies": []
+    },
+    "Factions/Panzer Hammer.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 83,
+      "exportedPath": "factions/panzer-hammer.html",
+      "dependencies": []
+    },
+    "Factions/Spirit Moderns.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 55,
+      "exportedPath": "factions/spirit-moderns.html",
+      "dependencies": []
+    },
+    "Factions/Tesla Unlimited.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 59,
+      "exportedPath": "factions/tesla-unlimited.html",
+      "dependencies": []
+    },
+    "Factions/Vampire Nation.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 208,
+      "exportedPath": "factions/vampire-nation.html",
+      "dependencies": []
+    },
+    "Operations/All Fall Down - Chapter 1.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 405,
+      "exportedPath": "operations/all-fall-down-chapter-1.html",
+      "dependencies": []
+    },
+    "People/Earl Blank.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 479,
+      "exportedPath": "people/earl-blank.html",
+      "dependencies": [
+        "lib/media/earl-blank.png"
+      ]
+    },
+    "People/Henry Jericho.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 264,
+      "exportedPath": "people/henry-jericho.html",
+      "dependencies": []
+    },
+    "People/October Tallisi.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 370,
+      "exportedPath": "people/october-tallisi.html",
+      "dependencies": [
+        "lib/media/october-tallisi.png"
+      ]
+    },
+    "People/Zero Ballard.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 436,
+      "exportedPath": "people/zero-ballard.html",
+      "dependencies": [
+        "lib/media/zero-ballard.png"
+      ]
+    },
+    "Places/Downtown (Austex Corridor Core).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 298,
+      "exportedPath": "places/downtown-(austex-corridor-core).html",
+      "dependencies": []
+    },
+    "Places/Far West Burbclave (Austex Northwest).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 226,
+      "exportedPath": "places/far-west-burbclave-(austex-northwest).html",
+      "dependencies": []
+    },
+    "Places/Old West (Austex West).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 253,
+      "exportedPath": "places/old-west-(austex-west).html",
+      "dependencies": []
+    },
+    "Places/Southby (Austex Southwest).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 169,
+      "exportedPath": "places/southby-(austex-southwest).html",
+      "dependencies": []
+    },
+    "Places/Techtown (Austex Corridor North).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 283,
+      "exportedPath": "places/techtown-(austex-corridor-north).html",
+      "dependencies": []
+    },
+    "Places/The Austin Metro Area.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 445,
+      "exportedPath": "places/the-austin-metro-area.html",
+      "dependencies": [
+        "lib/media/austin-metro-area.png"
+      ]
+    },
+    "Places/The Tombs (Austex East).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 291,
+      "exportedPath": "places/the-tombs-(austex-east).html",
+      "dependencies": []
+    },
+    "Places/Weirdsville (Austex Corridor South).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 177,
+      "exportedPath": "places/weirdsville-(austex-corridor-south).html",
+      "dependencies": []
+    },
+    "Places/Windsor Corpo Burbclave (Austex Northeast).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 197,
+      "exportedPath": "places/windsor-corpo-burbclave-(austex-northeast).html",
+      "dependencies": []
+    },
+    "Places/Zilker (Austex Southeast).md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 297,
+      "exportedPath": "places/zilker-(austex-southeast).html",
+      "dependencies": []
+    },
+    "zResources/Austin Metro Area.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 352248,
+      "exportedPath": "zresources/austin-metro-area.png",
+      "dependencies": []
+    },
+    "zResources/background_skyline.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 1671561,
+      "exportedPath": "zresources/background_skyline.png",
+      "dependencies": []
+    },
+    "zResources/Earl Blank.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 330612,
+      "exportedPath": "zresources/earl-blank.png",
+      "dependencies": []
+    },
+    "zResources/Empire of Steel Banner.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 1004241,
+      "exportedPath": "zresources/empire-of-steel-banner.png",
+      "dependencies": []
+    },
+    "zResources/October Tallisi.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 554051,
+      "exportedPath": "zresources/october-tallisi.png",
+      "dependencies": []
+    },
+    "zResources/Zero Ballard.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 605419,
+      "exportedPath": "zresources/zero-ballard.png",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 105,
+      "exportedPath": "index.html",
+      "dependencies": [
+        "zresources/empire-of-steel-banner.png"
+      ]
+    },
+    "lib/media/earl-blank.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 330612,
+      "exportedPath": "lib/media/earl-blank.png",
+      "dependencies": []
+    },
+    "lib/media/october-tallisi.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 554051,
+      "exportedPath": "lib/media/october-tallisi.png",
+      "dependencies": []
+    },
+    "lib/media/zero-ballard.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 605419,
+      "exportedPath": "lib/media/zero-ballard.png",
+      "dependencies": []
+    },
+    "lib/media/austin-metro-area.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 352248,
+      "exportedPath": "lib/media/austin-metro-area.png",
+      "dependencies": []
+    },
+    "zresources/empire-of-steel-banner.png": {
+      "modifiedTime": 1731550763828,
+      "sourceSize": 1004241,
+      "exportedPath": "zresources/empire-of-steel-banner.png",
+      "dependencies": []
+    },
+    "Background/Acquired Mutation Plasmid Syndrome.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 758,
+      "exportedPath": "background/acquired-mutation-plasmid-syndrome.html",
+      "dependencies": []
+    },
+    "zTemplates/default.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 24,
+      "exportedPath": "ztemplates/default.html",
+      "dependencies": []
+    },
+    "zTemplates/faction default.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 50,
+      "exportedPath": "ztemplates/faction-default.html",
+      "dependencies": []
+    },
+    "zTemplates/infobox.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 63,
+      "exportedPath": "ztemplates/infobox.html",
+      "dependencies": []
+    },
+    "zTemplates/npc default.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 66,
+      "exportedPath": "ztemplates/npc-default.html",
+      "dependencies": []
+    },
+    "zTemplates/pc default.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 43,
+      "exportedPath": "ztemplates/pc-default.html",
+      "dependencies": []
+    },
+    "zTemplates/place default.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 33,
+      "exportedPath": "ztemplates/place-default.html",
+      "dependencies": []
+    },
+    "zTemplates/session default.md": {
+      "modifiedTime": 1731550930506,
+      "sourceSize": 120,
+      "exportedPath": "ztemplates/session-default.html",
+      "dependencies": []
+    }
+  }
+}
