@@ -1,6 +1,6 @@
 {
   "vaultName": "Empire of Steel",
-  "lastExport": 1731554274295,
+  "lastExport": 1731554375146,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon CG-workspace-background CG-workspace-background-image-custom CG-MObsidian-sbt CG-custom-checkbox CG-NewObsidian-hr callout-alternate-line img-adj-list",
   "useCustomHeadContent": false,
@@ -42,7 +42,11 @@
     "zResources/October Tallisi.png",
     "zResources/Zero Ballard.png",
     "Empire of Steel.md",
+    "lib/media/earl-blank.png",
     "lib/media/henry-jericho.png",
+    "lib/media/october-tallisi.png",
+    "lib/media/zero-ballard.png",
+    "lib/media/austin-metro-area.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -68,10 +72,7 @@
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
-    "lib/media/earl-blank.png",
-    "lib/media/october-tallisi.png",
-    "lib/media/zero-ballard.png",
-    "lib/media/austin-metro-area.png"
+    "zresources/empire-of-steel-banner.png"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -102,91 +103,91 @@
   ],
   "fileInfo": {
     "Background/Acquired Mutation Plasmid Syndrome.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 758,
       "exportedPath": "background/acquired-mutation-plasmid-syndrome.html",
       "dependencies": []
     },
     "Background/Holograms.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 793,
       "exportedPath": "background/holograms.html",
       "dependencies": []
     },
     "Background/The Event.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 1000,
       "exportedPath": "background/the-event.html",
       "dependencies": []
     },
     "Factions/AusTex Response.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 64,
       "exportedPath": "factions/austex-response.html",
       "dependencies": []
     },
     "Factions/Cascadia Pro-Cop.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 59,
       "exportedPath": "factions/cascadia-pro-cop.html",
       "dependencies": []
     },
     "Factions/Dallas Dynamics.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 59,
       "exportedPath": "factions/dallas-dynamics.html",
       "dependencies": []
     },
     "Factions/Dell-HP Computing.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 59,
       "exportedPath": "factions/dell-hp-computing.html",
       "dependencies": []
     },
     "Factions/National Instruments Combine.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 59,
       "exportedPath": "factions/national-instruments-combine.html",
       "dependencies": []
     },
     "Factions/Panzer Hammer.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 83,
       "exportedPath": "factions/panzer-hammer.html",
       "dependencies": []
     },
     "Factions/Spirit Moderns.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 55,
       "exportedPath": "factions/spirit-moderns.html",
       "dependencies": []
     },
     "Factions/Tesla Unlimited.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 59,
       "exportedPath": "factions/tesla-unlimited.html",
       "dependencies": []
     },
     "Factions/The Cyberpapacy.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 70,
       "exportedPath": "factions/the-cyberpapacy.html",
       "dependencies": []
     },
     "Factions/Vampire Nation.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 208,
       "exportedPath": "factions/vampire-nation.html",
       "dependencies": []
     },
     "Operations/All Fall Down - Chapter 1.md": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 568,
       "exportedPath": "operations/all-fall-down-chapter-1.html",
       "dependencies": []
     },
     "People/Earl Blank.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 479,
       "exportedPath": "people/earl-blank.html",
       "dependencies": [
@@ -194,7 +195,7 @@
       ]
     },
     "People/Henry Jericho.md": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 356,
       "exportedPath": "people/henry-jericho.html",
       "dependencies": [
@@ -202,7 +203,7 @@
       ]
     },
     "People/October Tallisi.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 370,
       "exportedPath": "people/october-tallisi.html",
       "dependencies": [
@@ -210,7 +211,7 @@
       ]
     },
     "People/Zero Ballard.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 436,
       "exportedPath": "people/zero-ballard.html",
       "dependencies": [
@@ -218,37 +219,37 @@
       ]
     },
     "Places/Downtown (Austex Corridor Core).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 298,
       "exportedPath": "places/downtown-(austex-corridor-core).html",
       "dependencies": []
     },
     "Places/Far West Burbclave (Austex Northwest).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 226,
       "exportedPath": "places/far-west-burbclave-(austex-northwest).html",
       "dependencies": []
     },
     "Places/Old West (Austex West).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 253,
       "exportedPath": "places/old-west-(austex-west).html",
       "dependencies": []
     },
     "Places/Southby (Austex Southwest).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 169,
       "exportedPath": "places/southby-(austex-southwest).html",
       "dependencies": []
     },
     "Places/Techtown (Austex Corridor North).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 283,
       "exportedPath": "places/techtown-(austex-corridor-north).html",
       "dependencies": []
     },
     "Places/The Austin Metro Area.md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 445,
       "exportedPath": "places/the-austin-metro-area.html",
       "dependencies": [
@@ -256,247 +257,247 @@
       ]
     },
     "Places/The Tombs (Austex East).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 291,
       "exportedPath": "places/the-tombs-(austex-east).html",
       "dependencies": []
     },
     "Places/Weirdsville (Austex Corridor South).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 177,
       "exportedPath": "places/weirdsville-(austex-corridor-south).html",
       "dependencies": []
     },
     "Places/Windsor Corpo Burbclave (Austex Northeast).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 197,
       "exportedPath": "places/windsor-corpo-burbclave-(austex-northeast).html",
       "dependencies": []
     },
     "Places/Zilker (Austex Southeast).md": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 297,
       "exportedPath": "places/zilker-(austex-southeast).html",
       "dependencies": []
     },
     "zResources/Austin Metro Area.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 352248,
       "exportedPath": "zresources/austin-metro-area.png",
       "dependencies": []
     },
     "zResources/background_skyline.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 1671561,
       "exportedPath": "zresources/background_skyline.png",
       "dependencies": []
     },
     "zResources/Earl Blank.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 330612,
       "exportedPath": "zresources/earl-blank.png",
       "dependencies": []
     },
     "zResources/Empire of Steel Banner.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 1004241,
       "exportedPath": "zresources/empire-of-steel-banner.png",
       "dependencies": []
     },
     "zResources/October Tallisi.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 554051,
       "exportedPath": "zresources/october-tallisi.png",
       "dependencies": []
     },
     "zResources/Zero Ballard.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 605419,
       "exportedPath": "zresources/zero-ballard.png",
       "dependencies": []
     },
     "lib/media/earl-blank.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 330612,
       "exportedPath": "lib/media/earl-blank.png",
       "dependencies": []
     },
     "lib/media/october-tallisi.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 554051,
       "exportedPath": "lib/media/october-tallisi.png",
       "dependencies": []
     },
     "lib/media/zero-ballard.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 605419,
       "exportedPath": "lib/media/zero-ballard.png",
       "dependencies": []
     },
     "lib/media/austin-metro-area.png": {
-      "modifiedTime": 1731552750739,
+      "modifiedTime": 1731554375146,
       "sourceSize": 352248,
       "exportedPath": "lib/media/austin-metro-area.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 16952,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 1616,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 846695,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 13000,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 85926,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "zResources/Henry Jericho.png": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 1013184,
       "exportedPath": "zresources/henry-jericho.png",
       "dependencies": []
     },
     "Empire of Steel.md": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 106,
       "exportedPath": "empire-of-steel.html",
       "dependencies": [
@@ -504,9 +505,15 @@
       ]
     },
     "lib/media/henry-jericho.png": {
-      "modifiedTime": 1731554274295,
+      "modifiedTime": 1731554375146,
       "sourceSize": 1013184,
       "exportedPath": "lib/media/henry-jericho.png",
+      "dependencies": []
+    },
+    "zresources/empire-of-steel-banner.png": {
+      "modifiedTime": 1731554375146,
+      "sourceSize": 1004241,
+      "exportedPath": "zresources/empire-of-steel-banner.png",
       "dependencies": []
     }
   }
