@@ -1,12 +1,13 @@
 {
   "vaultName": "Empire of Steel",
-  "lastExport": 1731554375146,
+  "lastExport": 1731557141138,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon CG-workspace-background CG-workspace-background-image-custom CG-MObsidian-sbt CG-custom-checkbox CG-NewObsidian-hr callout-alternate-line img-adj-list",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Background/Acquired Mutation Plasmid Syndrome.md",
+    "Background/Cybrid.md",
     "Background/Holograms.md",
     "Background/The Event.md",
     "Factions/AusTex Response.md",
@@ -14,7 +15,7 @@
     "Factions/Dallas Dynamics.md",
     "Factions/Dell-HP Computing.md",
     "Factions/National Instruments Combine.md",
-    "Factions/Panzer Hammer.md",
+    "Factions/Panzer Hammers.md",
     "Factions/Spirit Moderns.md",
     "Factions/Tesla Unlimited.md",
     "Factions/The Cyberpapacy.md",
@@ -22,11 +23,16 @@
     "Operations/All Fall Down - Chapter 1.md",
     "People/Earl Blank.md",
     "People/Henry Jericho.md",
+    "People/Lloyd Ashworth.md",
+    "People/Mittens.md",
     "People/October Tallisi.md",
+    "People/Oliver Gaskell.md",
     "People/Zero Ballard.md",
     "Places/Downtown (Austex Corridor Core).md",
     "Places/Far West Burbclave (Austex Northwest).md",
+    "Places/Grand Metropol Hotel.md",
     "Places/Old West (Austex West).md",
+    "Places/ReFood.md",
     "Places/Southby (Austex Southwest).md",
     "Places/Techtown (Austex Corridor North).md",
     "Places/The Austin Metro Area.md",
@@ -38,15 +44,23 @@
     "zResources/background_skyline.png",
     "zResources/Earl Blank.png",
     "zResources/Empire of Steel Banner.png",
+    "zResources/GettyImages-139420161.webp",
+    "zResources/Grand Metropol Hotel Penthouse.png",
     "zResources/Henry Jericho.png",
+    "zResources/Lloyd Ashworth.png",
+    "zResources/Mittens.png",
     "zResources/October Tallisi.png",
+    "zResources/Oliver Gaskell.png",
+    "zResources/The Tombs Map.png",
     "zResources/Zero Ballard.png",
-    "Empire of Steel.md",
-    "lib/media/earl-blank.png",
-    "lib/media/henry-jericho.png",
-    "lib/media/october-tallisi.png",
-    "lib/media/zero-ballard.png",
-    "lib/media/austin-metro-area.png",
+    "Index.md",
+    "lib/media/lloyd-ashworth.png",
+    "lib/media/mittens.png",
+    "lib/media/oliver-gaskell.png",
+    "lib/media/gettyimages-139420161.webp",
+    "lib/media/grand-metropol-hotel-penthouse.png",
+    "lib/media/the-tombs-map.png",
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -63,8 +77,14 @@
     "lib/media/874d8b8e340f75575caa.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
     "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
@@ -72,9 +92,14 @@
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
-    "zresources/empire-of-steel-banner.png"
+    "lib/media/earl-blank.png",
+    "lib/media/henry-jericho.png",
+    "lib/media/october-tallisi.png",
+    "lib/media/zero-ballard.png",
+    "lib/media/austin-metro-area.png"
   ],
   "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -91,8 +116,14 @@
     "lib/media/874d8b8e340f75575caa.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
     "lib/scripts/minisearch.js",
     "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
@@ -150,12 +181,6 @@
       "exportedPath": "factions/national-instruments-combine.html",
       "dependencies": []
     },
-    "Factions/Panzer Hammer.md": {
-      "modifiedTime": 1731554375146,
-      "sourceSize": 83,
-      "exportedPath": "factions/panzer-hammer.html",
-      "dependencies": []
-    },
     "Factions/Spirit Moderns.md": {
       "modifiedTime": 1731554375146,
       "sourceSize": 55,
@@ -181,8 +206,8 @@
       "dependencies": []
     },
     "Operations/All Fall Down - Chapter 1.md": {
-      "modifiedTime": 1731554375146,
-      "sourceSize": 568,
+      "modifiedTime": 1731557141138,
+      "sourceSize": 2318,
       "exportedPath": "operations/all-fall-down-chapter-1.html",
       "dependencies": []
     },
@@ -257,10 +282,12 @@
       ]
     },
     "Places/The Tombs (Austex East).md": {
-      "modifiedTime": 1731554375146,
-      "sourceSize": 291,
+      "modifiedTime": 1731557141138,
+      "sourceSize": 335,
       "exportedPath": "places/the-tombs-(austex-east).html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/the-tombs-map.png"
+      ]
     },
     "Places/Weirdsville (Austex Corridor South).md": {
       "modifiedTime": 1731554375146,
@@ -341,151 +368,151 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1731554375146,
-      "sourceSize": 16952,
+      "modifiedTime": 1731557141138,
+      "sourceSize": 21098,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 1616,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 846695,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1731554375146,
-      "sourceSize": 13000,
+      "modifiedTime": 1731557141138,
+      "sourceSize": 6924,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1731554375146,
+      "modifiedTime": 1731557141138,
       "sourceSize": 85926,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -496,24 +523,183 @@
       "exportedPath": "zresources/henry-jericho.png",
       "dependencies": []
     },
-    "Empire of Steel.md": {
-      "modifiedTime": 1731554375146,
-      "sourceSize": 106,
-      "exportedPath": "empire-of-steel.html",
-      "dependencies": [
-        "zresources/empire-of-steel-banner.png"
-      ]
-    },
     "lib/media/henry-jericho.png": {
       "modifiedTime": 1731554375146,
       "sourceSize": 1013184,
       "exportedPath": "lib/media/henry-jericho.png",
       "dependencies": []
     },
-    "zresources/empire-of-steel-banner.png": {
-      "modifiedTime": 1731554375146,
-      "sourceSize": 1004241,
-      "exportedPath": "zresources/empire-of-steel-banner.png",
+    "Background/Cybrid.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 65,
+      "exportedPath": "background/cybrid.html",
+      "dependencies": []
+    },
+    "Factions/Panzer Hammers.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 83,
+      "exportedPath": "factions/panzer-hammers.html",
+      "dependencies": []
+    },
+    "People/Lloyd Ashworth.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 338,
+      "exportedPath": "people/lloyd-ashworth.html",
+      "dependencies": [
+        "lib/media/lloyd-ashworth.png"
+      ]
+    },
+    "People/Mittens.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 153,
+      "exportedPath": "people/mittens.html",
+      "dependencies": [
+        "lib/media/mittens.png"
+      ]
+    },
+    "People/Oliver Gaskell.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 211,
+      "exportedPath": "people/oliver-gaskell.html",
+      "dependencies": [
+        "lib/media/oliver-gaskell.png"
+      ]
+    },
+    "Places/Grand Metropol Hotel.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 604,
+      "exportedPath": "places/grand-metropol-hotel.html",
+      "dependencies": [
+        "lib/media/gettyimages-139420161.webp",
+        "lib/media/grand-metropol-hotel-penthouse.png"
+      ]
+    },
+    "Places/ReFood.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 205,
+      "exportedPath": "places/refood.html",
+      "dependencies": []
+    },
+    "zResources/GettyImages-139420161.webp": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 598198,
+      "exportedPath": "zresources/gettyimages-139420161.webp",
+      "dependencies": []
+    },
+    "zResources/Grand Metropol Hotel Penthouse.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 263353,
+      "exportedPath": "zresources/grand-metropol-hotel-penthouse.png",
+      "dependencies": []
+    },
+    "zResources/Lloyd Ashworth.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 588698,
+      "exportedPath": "zresources/lloyd-ashworth.png",
+      "dependencies": []
+    },
+    "zResources/Mittens.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 342800,
+      "exportedPath": "zresources/mittens.png",
+      "dependencies": []
+    },
+    "zResources/Oliver Gaskell.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 137188,
+      "exportedPath": "zresources/oliver-gaskell.png",
+      "dependencies": []
+    },
+    "zResources/The Tombs Map.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 9329657,
+      "exportedPath": "zresources/the-tombs-map.png",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 137,
+      "exportedPath": "index.html",
+      "dependencies": [
+        "zresources/empire-of-steel-banner.png"
+      ]
+    },
+    "lib/media/lloyd-ashworth.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 588698,
+      "exportedPath": "lib/media/lloyd-ashworth.png",
+      "dependencies": []
+    },
+    "lib/media/mittens.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 342800,
+      "exportedPath": "lib/media/mittens.png",
+      "dependencies": []
+    },
+    "lib/media/oliver-gaskell.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 137188,
+      "exportedPath": "lib/media/oliver-gaskell.png",
+      "dependencies": []
+    },
+    "lib/media/gettyimages-139420161.webp": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 598198,
+      "exportedPath": "lib/media/gettyimages-139420161.webp",
+      "dependencies": []
+    },
+    "lib/media/grand-metropol-hotel-penthouse.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 263353,
+      "exportedPath": "lib/media/grand-metropol-hotel-penthouse.png",
+      "dependencies": []
+    },
+    "lib/media/the-tombs-map.png": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 9329657,
+      "exportedPath": "lib/media/the-tombs-map.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1731557141138,
+      "sourceSize": 3039,
+      "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     }
   }
