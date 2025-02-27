@@ -1,6 +1,6 @@
 {
   "vaultName": "Empire of Steel",
-  "lastExport": 1740024672086,
+  "lastExport": 1740615679280,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon CG-workspace-background CG-workspace-background-image-custom CG-active-background CG-colorfulFolder CG-disableAni CG-MObsidian-sbt CG-custom-checkbox CG-OG-hr callout-alternate-line img-adj-list",
   "useCustomHeadContent": false,
@@ -245,13 +245,13 @@
   ],
   "fileInfo": {
     "Factions/AusTex Response.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 68,
       "exportedPath": "factions/austex-response.html",
       "dependencies": []
     },
     "Factions/Cascadia Pro-Cop.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 182,
       "exportedPath": "factions/cascadia-pro-cop.html",
       "dependencies": [
@@ -259,43 +259,43 @@
       ]
     },
     "Factions/Dallas Dynamics.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 95,
       "exportedPath": "factions/dallas-dynamics.html",
       "dependencies": []
     },
     "Factions/Dell-HP Computing.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 83,
       "exportedPath": "factions/dell-hp-computing.html",
       "dependencies": []
     },
     "Factions/National Instruments Combine.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 83,
       "exportedPath": "factions/national-instruments-combine.html",
       "dependencies": []
     },
     "Factions/Spirit Moderns.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 404,
       "exportedPath": "factions/spirit-moderns.html",
       "dependencies": []
     },
     "Factions/Tesla Unlimited.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 94,
       "exportedPath": "factions/tesla-unlimited.html",
       "dependencies": []
     },
     "Factions/The Cyberpapacy.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 70,
       "exportedPath": "factions/the-cyberpapacy.html",
       "dependencies": []
     },
     "Factions/Vampire Nation.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 292,
       "exportedPath": "factions/vampire-nation.html",
       "dependencies": [
@@ -303,7 +303,7 @@
       ]
     },
     "People/Earl Blank.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 513,
       "exportedPath": "people/earl-blank.html",
       "dependencies": [
@@ -311,7 +311,7 @@
       ]
     },
     "People/Henry Jericho.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 599,
       "exportedPath": "people/henry-jericho.html",
       "dependencies": [
@@ -319,7 +319,7 @@
       ]
     },
     "People/October Tallisi.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 397,
       "exportedPath": "people/october-tallisi.html",
       "dependencies": [
@@ -327,7 +327,7 @@
       ]
     },
     "People/Zero Ballard.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 454,
       "exportedPath": "people/zero-ballard.html",
       "dependencies": [
@@ -335,46 +335,45 @@
       ]
     },
     "Places/Downtown (Austex Corridor Core).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 298,
       "exportedPath": "places/downtown-(austex-corridor-core).html",
       "dependencies": []
     },
     "Places/Far West Burbclave (Austex Northwest).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 226,
       "exportedPath": "places/far-west-burbclave-(austex-northwest).html",
       "dependencies": []
     },
     "Places/Old West (Austex West).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 253,
       "exportedPath": "places/old-west-(austex-west).html",
       "dependencies": []
     },
     "Places/Southby (Austex Southwest).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 169,
       "exportedPath": "places/southby-(austex-southwest).html",
       "dependencies": []
     },
     "Places/Techtown (Austex Corridor North).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 602,
       "exportedPath": "places/techtown-(austex-corridor-north).html",
       "dependencies": []
     },
     "Places/The Austin Metro Area.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 445,
       "exportedPath": "places/the-austin-metro-area.html",
       "dependencies": [
-        "lib/media/austin-metro-area.png",
-        "lib/media/the-tombs-map.jpg"
+        "lib/media/austin-metro-area.png"
       ]
     },
     "Places/The Tombs (Austex East).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 336,
       "exportedPath": "places/the-tombs-(austex-east).html",
       "dependencies": [
@@ -382,157 +381,157 @@
       ]
     },
     "Places/Weirdsville (Austex Corridor South).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 177,
       "exportedPath": "places/weirdsville-(austex-corridor-south).html",
       "dependencies": []
     },
     "Places/Windsor Corpo Burbclave (Austex Northeast).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 197,
       "exportedPath": "places/windsor-corpo-burbclave-(austex-northeast).html",
       "dependencies": []
     },
     "Places/Zilker (Austex Southeast).md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 297,
       "exportedPath": "places/zilker-(austex-southeast).html",
       "dependencies": []
     },
     "zResources/Austin Metro Area.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 352248,
       "exportedPath": "zresources/austin-metro-area.png",
       "dependencies": []
     },
     "zResources/background_skyline.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1671561,
       "exportedPath": "zresources/background_skyline.png",
       "dependencies": []
     },
     "zResources/Earl Blank.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 330612,
       "exportedPath": "zresources/earl-blank.png",
       "dependencies": []
     },
     "zResources/Empire of Steel Banner.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1004241,
       "exportedPath": "zresources/empire-of-steel-banner.png",
       "dependencies": []
     },
     "zResources/October Tallisi.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 554051,
       "exportedPath": "zresources/october-tallisi.png",
       "dependencies": []
     },
     "zResources/Zero Ballard.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 605419,
       "exportedPath": "zresources/zero-ballard.png",
       "dependencies": []
     },
     "lib/media/earl-blank.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 330612,
       "exportedPath": "lib/media/earl-blank.png",
       "dependencies": []
     },
     "lib/media/october-tallisi.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 554051,
       "exportedPath": "lib/media/october-tallisi.png",
       "dependencies": []
     },
     "lib/media/zero-ballard.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 605419,
       "exportedPath": "lib/media/zero-ballard.png",
       "dependencies": []
     },
     "lib/media/austin-metro-area.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 352248,
       "exportedPath": "lib/media/austin-metro-area.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -544,91 +543,91 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 48630,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 137305,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 2104,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 613236,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1740024672086,
-      "sourceSize": 5448,
+      "modifiedTime": 1740615679280,
+      "sourceSize": 4771,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 85926,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "zResources/Henry Jericho.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1013184,
       "exportedPath": "zresources/henry-jericho.png",
       "dependencies": []
     },
     "lib/media/henry-jericho.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1013184,
       "exportedPath": "lib/media/henry-jericho.png",
       "dependencies": []
     },
     "Factions/Panzer Hammers.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 351,
       "exportedPath": "factions/panzer-hammers.html",
       "dependencies": []
     },
     "People/Lloyd Ashworth.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 338,
       "exportedPath": "people/lloyd-ashworth.html",
       "dependencies": [
@@ -636,7 +635,7 @@
       ]
     },
     "People/Mittens.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 225,
       "exportedPath": "people/mittens.html",
       "dependencies": [
@@ -644,7 +643,7 @@
       ]
     },
     "People/Oliver Gaskell.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 227,
       "exportedPath": "people/oliver-gaskell.html",
       "dependencies": [
@@ -652,7 +651,7 @@
       ]
     },
     "Places/Grand Metropol Hotel.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 725,
       "exportedPath": "places/grand-metropol-hotel.html",
       "dependencies": [
@@ -661,109 +660,109 @@
       ]
     },
     "Places/ReFood.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 225,
       "exportedPath": "places/refood.html",
       "dependencies": []
     },
     "zResources/Grand Metropol Hotel Penthouse.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 263353,
       "exportedPath": "zresources/grand-metropol-hotel-penthouse.png",
       "dependencies": []
     },
     "zResources/Lloyd Ashworth.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 588698,
       "exportedPath": "zresources/lloyd-ashworth.png",
       "dependencies": []
     },
     "zResources/Mittens.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 342800,
       "exportedPath": "zresources/mittens.png",
       "dependencies": []
     },
     "zResources/Oliver Gaskell.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 137188,
       "exportedPath": "zresources/oliver-gaskell.png",
       "dependencies": []
     },
     "lib/media/lloyd-ashworth.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 588698,
       "exportedPath": "lib/media/lloyd-ashworth.png",
       "dependencies": []
     },
     "lib/media/mittens.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 342800,
       "exportedPath": "lib/media/mittens.png",
       "dependencies": []
     },
     "lib/media/oliver-gaskell.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 137188,
       "exportedPath": "lib/media/oliver-gaskell.png",
       "dependencies": []
     },
     "lib/media/grand-metropol-hotel-penthouse.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 263353,
       "exportedPath": "lib/media/grand-metropol-hotel-penthouse.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 5976,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "zresources/empire-of-steel-banner.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1004241,
       "exportedPath": "zresources/empire-of-steel-banner.png",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1568,
       "exportedPath": "index.html",
       "dependencies": [
@@ -772,61 +771,61 @@
       ]
     },
     "People/Angel Rivera.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 696,
       "exportedPath": "people/angel-rivera.html",
       "dependencies": []
     },
     "Setting/Acquired Mutation Plasmid Syndrome.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 755,
       "exportedPath": "setting/acquired-mutation-plasmid-syndrome.html",
       "dependencies": []
     },
     "Setting/Cybrid.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 74,
       "exportedPath": "setting/cybrid.html",
       "dependencies": []
     },
     "Setting/Holograms.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 785,
       "exportedPath": "setting/holograms.html",
       "dependencies": []
     },
     "Setting/The Event.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 997,
       "exportedPath": "setting/the-event.html",
       "dependencies": []
     },
     "zResources/Grand Metropol Hotel exterior.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 5392398,
       "exportedPath": "zresources/grand-metropol-hotel-exterior.png",
       "dependencies": []
     },
     "zResources/Maury Thompkins.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 534656,
       "exportedPath": "zresources/maury-thompkins.png",
       "dependencies": []
     },
     "zResources/Violet Moore.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 620195,
       "exportedPath": "zresources/violet-moore.png",
       "dependencies": []
     },
     "lib/media/grand-metropol-hotel-exterior.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 5392398,
       "exportedPath": "lib/media/grand-metropol-hotel-exterior.png",
       "dependencies": []
     },
     "Characters/Maury Thompkins.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1079,
       "exportedPath": "characters/maury-thompkins.html",
       "dependencies": [
@@ -834,7 +833,7 @@
       ]
     },
     "Characters/Violet Moore.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1421,
       "exportedPath": "characters/violet-moore.html",
       "dependencies": [
@@ -842,19 +841,19 @@
       ]
     },
     "lib/media/maury-thompkins.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 534656,
       "exportedPath": "lib/media/maury-thompkins.png",
       "dependencies": []
     },
     "lib/media/violet-moore.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 620195,
       "exportedPath": "lib/media/violet-moore.png",
       "dependencies": []
     },
     "Factions/Koizumi Aerospace Corporation.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 288,
       "exportedPath": "factions/koizumi-aerospace-corporation.html",
       "dependencies": [
@@ -862,7 +861,7 @@
       ]
     },
     "People/Dr. Narindar Nwolko.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 721,
       "exportedPath": "people/dr.-narindar-nwolko.html",
       "dependencies": [
@@ -871,49 +870,49 @@
       ]
     },
     "Setting/Synths.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 267,
       "exportedPath": "setting/synths.html",
       "dependencies": []
     },
     "zResources/Koizumi Synths.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 333769,
       "exportedPath": "zresources/koizumi-synths.png",
       "dependencies": []
     },
     "zResources/The Tombs Map.jpg": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 764686,
       "exportedPath": "zresources/the-tombs-map.jpg",
       "dependencies": []
     },
     "lib/media/koizumi-synths.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 333769,
       "exportedPath": "lib/media/koizumi-synths.png",
       "dependencies": []
     },
     "lib/media/the-tombs-map.jpg": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 764686,
       "exportedPath": "lib/media/the-tombs-map.jpg",
       "dependencies": []
     },
     "Operations/All Fall Down - Part 1.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 3696,
       "exportedPath": "operations/all-fall-down-part-1.html",
       "dependencies": []
     },
     "Operations/All Fall Down - Part 2.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 6895,
       "exportedPath": "operations/all-fall-down-part-2.html",
       "dependencies": []
     },
     "Characters/Attica.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1476,
       "exportedPath": "characters/attica.html",
       "dependencies": [
@@ -921,13 +920,13 @@
       ]
     },
     "Factions/Waring-Erikson Technology Group.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 95,
       "exportedPath": "factions/waring-erikson-technology-group.html",
       "dependencies": []
     },
     "People/Aidan Graves.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 546,
       "exportedPath": "people/aidan-graves.html",
       "dependencies": [
@@ -936,7 +935,7 @@
       ]
     },
     "People/Daron Ocano.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 305,
       "exportedPath": "people/daron-ocano.html",
       "dependencies": [
@@ -944,7 +943,7 @@
       ]
     },
     "People/Verner Jackstadt.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 489,
       "exportedPath": "people/verner-jackstadt.html",
       "dependencies": [
@@ -953,115 +952,115 @@
       ]
     },
     "zResources/Aidan Graves.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 503544,
       "exportedPath": "zresources/aidan-graves.png",
       "dependencies": []
     },
     "zResources/All Fall Down.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 60580,
       "exportedPath": "zresources/all-fall-down.png",
       "dependencies": []
     },
     "zResources/Attica.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1782971,
       "exportedPath": "zresources/attica.png",
       "dependencies": []
     },
     "zResources/Daron Ocano.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 488850,
       "exportedPath": "zresources/daron-ocano.png",
       "dependencies": []
     },
     "zResources/Dr. Narindar Nwolko.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 240064,
       "exportedPath": "zresources/dr.-narindar-nwolko.png",
       "dependencies": []
     },
     "zResources/Graves' Rose .72 Heavy Pistol.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 410806,
       "exportedPath": "zresources/graves'-rose-.72-heavy-pistol.png",
       "dependencies": []
     },
     "zResources/Nwolkos Clinic.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 9011374,
       "exportedPath": "zresources/nwolkos-clinic.png",
       "dependencies": []
     },
     "zResources/Verner Jackstadt.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 267140,
       "exportedPath": "zresources/verner-jackstadt.png",
       "dependencies": []
     },
     "zResources/Verner's Arm.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 614535,
       "exportedPath": "zresources/verner's-arm.png",
       "dependencies": []
     },
     "lib/media/attica.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1782971,
       "exportedPath": "lib/media/attica.png",
       "dependencies": []
     },
     "lib/media/aidan-graves.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 503544,
       "exportedPath": "lib/media/aidan-graves.png",
       "dependencies": []
     },
     "lib/media/graves'-rose-.72-heavy-pistol.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 410806,
       "exportedPath": "lib/media/graves'-rose-.72-heavy-pistol.png",
       "dependencies": []
     },
     "lib/media/daron-ocano.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 488850,
       "exportedPath": "lib/media/daron-ocano.png",
       "dependencies": []
     },
     "lib/media/dr.-narindar-nwolko.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 240064,
       "exportedPath": "lib/media/dr.-narindar-nwolko.png",
       "dependencies": []
     },
     "lib/media/nwolkos-clinic.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 9011374,
       "exportedPath": "lib/media/nwolkos-clinic.png",
       "dependencies": []
     },
     "lib/media/verner-jackstadt.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 267140,
       "exportedPath": "lib/media/verner-jackstadt.png",
       "dependencies": []
     },
     "lib/media/verner's-arm.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 614535,
       "exportedPath": "lib/media/verner's-arm.png",
       "dependencies": []
     },
     "Operations/All Fall Down - Part 3.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 6114,
       "exportedPath": "operations/all-fall-down-part-3.html",
       "dependencies": []
     },
     "People/Artemis Sonata.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 365,
       "exportedPath": "people/artemis-sonata.html",
       "dependencies": [
@@ -1069,7 +1068,7 @@
       ]
     },
     "People/Dr. Su Xinyi Zheng.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 283,
       "exportedPath": "people/dr.-su-xinyi-zheng.html",
       "dependencies": [
@@ -1077,7 +1076,7 @@
       ]
     },
     "People/Terra McAllister.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 347,
       "exportedPath": "people/terra-mcallister.html",
       "dependencies": [
@@ -1085,7 +1084,7 @@
       ]
     },
     "People/Zina Kova.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 211,
       "exportedPath": "people/zina-kova.html",
       "dependencies": [
@@ -1093,67 +1092,67 @@
       ]
     },
     "Places/Dome Town.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 224,
       "exportedPath": "places/dome-town.html",
       "dependencies": []
     },
     "Places/Violator.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 523,
       "exportedPath": "places/violator.html",
       "dependencies": []
     },
     "zResources/Artemis Sonata.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 431681,
       "exportedPath": "zresources/artemis-sonata.png",
       "dependencies": []
     },
     "zResources/Dr. Su Xinyi Zheng.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 475567,
       "exportedPath": "zresources/dr.-su-xinyi-zheng.png",
       "dependencies": []
     },
     "zResources/Terra McAllister.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 633264,
       "exportedPath": "zresources/terra-mcallister.png",
       "dependencies": []
     },
     "zResources/Zina Kova.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 321506,
       "exportedPath": "zresources/zina-kova.png",
       "dependencies": []
     },
     "lib/media/artemis-sonata.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 431681,
       "exportedPath": "lib/media/artemis-sonata.png",
       "dependencies": []
     },
     "lib/media/dr.-su-xinyi-zheng.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 475567,
       "exportedPath": "lib/media/dr.-su-xinyi-zheng.png",
       "dependencies": []
     },
     "lib/media/terra-mcallister.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 633264,
       "exportedPath": "lib/media/terra-mcallister.png",
       "dependencies": []
     },
     "lib/media/zina-kova.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 321506,
       "exportedPath": "lib/media/zina-kova.png",
       "dependencies": []
     },
     "People/Delia Graydon.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 343,
       "exportedPath": "people/delia-graydon.html",
       "dependencies": [
@@ -1161,7 +1160,7 @@
       ]
     },
     "People/Nastasia Gwinelle.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 214,
       "exportedPath": "people/nastasia-gwinelle.html",
       "dependencies": [
@@ -1169,7 +1168,7 @@
       ]
     },
     "People/Skinjob Records.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 369,
       "exportedPath": "people/skinjob-records.html",
       "dependencies": [
@@ -1178,7 +1177,7 @@
       ]
     },
     "People/Wynston Lien.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 318,
       "exportedPath": "people/wynston-lien.html",
       "dependencies": [
@@ -1186,79 +1185,79 @@
       ]
     },
     "zResources/Crystal Green.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 509120,
       "exportedPath": "zresources/crystal-green.png",
       "dependencies": []
     },
     "zResources/Cyber Fangs.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 586858,
       "exportedPath": "zresources/cyber-fangs.png",
       "dependencies": []
     },
     "zResources/Delia Graydon.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 393232,
       "exportedPath": "zresources/delia-graydon.png",
       "dependencies": []
     },
     "zResources/Greezy Trillion.jpg": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 62614,
       "exportedPath": "zresources/greezy-trillion.jpg",
       "dependencies": []
     },
     "zResources/Nastasia Gwinelle.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 360987,
       "exportedPath": "zresources/nastasia-gwinelle.png",
       "dependencies": []
     },
     "zResources/Wynston Lien.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 436312,
       "exportedPath": "zresources/wynston-lien.png",
       "dependencies": []
     },
     "lib/media/cyber-fangs.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 586858,
       "exportedPath": "lib/media/cyber-fangs.png",
       "dependencies": []
     },
     "lib/media/delia-graydon.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 393232,
       "exportedPath": "lib/media/delia-graydon.png",
       "dependencies": []
     },
     "lib/media/nastasia-gwinelle.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 360987,
       "exportedPath": "lib/media/nastasia-gwinelle.png",
       "dependencies": []
     },
     "lib/media/crystal-green.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 509120,
       "exportedPath": "lib/media/crystal-green.png",
       "dependencies": []
     },
     "lib/media/greezy-trillion.jpg": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 62614,
       "exportedPath": "lib/media/greezy-trillion.jpg",
       "dependencies": []
     },
     "lib/media/wynston-lien.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 436312,
       "exportedPath": "lib/media/wynston-lien.png",
       "dependencies": []
     },
     "People/Lucas Konstantin.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 434,
       "exportedPath": "people/lucas-konstantin.html",
       "dependencies": [
@@ -1266,7 +1265,7 @@
       ]
     },
     "People/Quinn Jackstadt.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 483,
       "exportedPath": "people/quinn-jackstadt.html",
       "dependencies": [
@@ -1274,7 +1273,7 @@
       ]
     },
     "People/Zoey Belmont.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 333,
       "exportedPath": "people/zoey-belmont.html",
       "dependencies": [
@@ -1282,7 +1281,7 @@
       ]
     },
     "Places/Bryker Woods.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 191,
       "exportedPath": "places/bryker-woods.html",
       "dependencies": [
@@ -1290,67 +1289,67 @@
       ]
     },
     "zResources/Bryker Woods.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1168683,
       "exportedPath": "zresources/bryker-woods.png",
       "dependencies": []
     },
     "zResources/Lucas Konstantin.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 181205,
       "exportedPath": "zresources/lucas-konstantin.png",
       "dependencies": []
     },
     "zResources/Quinn Jackstadt.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 561559,
       "exportedPath": "zresources/quinn-jackstadt.png",
       "dependencies": []
     },
     "zResources/Zoey Belmont.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 276224,
       "exportedPath": "zresources/zoey-belmont.png",
       "dependencies": []
     },
     "lib/media/bryker-woods.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 1168683,
       "exportedPath": "lib/media/bryker-woods.png",
       "dependencies": []
     },
     "lib/media/lucas-konstantin.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 181205,
       "exportedPath": "lib/media/lucas-konstantin.png",
       "dependencies": []
     },
     "lib/media/quinn-jackstadt.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 561559,
       "exportedPath": "lib/media/quinn-jackstadt.png",
       "dependencies": []
     },
     "lib/media/zoey-belmont.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 276224,
       "exportedPath": "lib/media/zoey-belmont.png",
       "dependencies": []
     },
     "Operations/Slings and Arrows - Part 1.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 3261,
       "exportedPath": "operations/slings-and-arrows-part-1.html",
       "dependencies": []
     },
     "zResources/Slings and Arrows.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 94480,
       "exportedPath": "zresources/slings-and-arrows.png",
       "dependencies": []
     },
     "Characters/Annika Lovelace.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 702,
       "exportedPath": "characters/annika-lovelace.html",
       "dependencies": [
@@ -1358,19 +1357,19 @@
       ]
     },
     "Factions/Synth Vixens.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 61,
       "exportedPath": "factions/synth-vixens.html",
       "dependencies": []
     },
     "Operations/Slings and Arrows - Part 2.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 4097,
       "exportedPath": "operations/slings-and-arrows-part-2.html",
       "dependencies": []
     },
     "People/Osric Kayne.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 191,
       "exportedPath": "people/osric-kayne.html",
       "dependencies": [
@@ -1378,79 +1377,79 @@
       ]
     },
     "Places/Data Dive Bar.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 220,
       "exportedPath": "places/data-dive-bar.html",
       "dependencies": []
     },
     "Places/Hell Valle.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 110,
       "exportedPath": "places/hell-valle.html",
       "dependencies": []
     },
     "Places/Knife Shop.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 97,
       "exportedPath": "places/knife-shop.html",
       "dependencies": []
     },
     "zResources/Annika Lovelace.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 935258,
       "exportedPath": "zresources/annika-lovelace.png",
       "dependencies": []
     },
     "zResources/Osric Kayne.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 971388,
       "exportedPath": "zresources/osric-kayne.png",
       "dependencies": []
     },
     "lib/media/annika-lovelace.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 935258,
       "exportedPath": "lib/media/annika-lovelace.png",
       "dependencies": []
     },
     "lib/media/osric-kayne.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 971388,
       "exportedPath": "lib/media/osric-kayne.png",
       "dependencies": []
     },
     "Operations/Slings and Arrows - Part 3.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 4933,
       "exportedPath": "operations/slings-and-arrows-part-3.html",
       "dependencies": []
     },
     "People/Isis Wakeman.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 199,
       "exportedPath": "people/isis-wakeman.html",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "Factions/The Circuit.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 200,
       "exportedPath": "factions/the-circuit.html",
       "dependencies": []
     },
     "Operations/Collision - Part 1.md": {
-      "modifiedTime": 1740024672086,
-      "sourceSize": 3485,
+      "modifiedTime": 1740615679280,
+      "sourceSize": 3518,
       "exportedPath": "operations/collision-part-1.html",
       "dependencies": []
     },
     "People/Bishop Silvestr Devin.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 351,
       "exportedPath": "people/bishop-silvestr-devin.html",
       "dependencies": [
@@ -1458,7 +1457,7 @@
       ]
     },
     "People/Cadence Flux.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 212,
       "exportedPath": "people/cadence-flux.html",
       "dependencies": [
@@ -1466,7 +1465,7 @@
       ]
     },
     "People/Darius Vasser.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 225,
       "exportedPath": "people/darius-vasser.html",
       "dependencies": [
@@ -1474,13 +1473,13 @@
       ]
     },
     "People/Simone Church.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 147,
       "exportedPath": "people/simone-church.html",
       "dependencies": []
     },
     "People/The Erinye.md": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 265,
       "exportedPath": "people/the-erinye.html",
       "dependencies": [
@@ -1488,61 +1487,61 @@
       ]
     },
     "zResources/Cadence Flux.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 876910,
       "exportedPath": "zresources/cadence-flux.png",
       "dependencies": []
     },
     "zResources/Collision.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 160970,
       "exportedPath": "zresources/collision.png",
       "dependencies": []
     },
     "zResources/Darius Vasser.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 272808,
       "exportedPath": "zresources/darius-vasser.png",
       "dependencies": []
     },
     "zResources/Silvestr Devin.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 688507,
       "exportedPath": "zresources/silvestr-devin.png",
       "dependencies": []
     },
     "zResources/The Erinye.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 387617,
       "exportedPath": "zresources/the-erinye.png",
       "dependencies": []
     },
     "lib/media/silvestr-devin.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 688507,
       "exportedPath": "lib/media/silvestr-devin.png",
       "dependencies": []
     },
     "lib/media/cadence-flux.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 876910,
       "exportedPath": "lib/media/cadence-flux.png",
       "dependencies": []
     },
     "lib/media/darius-vasser.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 272808,
       "exportedPath": "lib/media/darius-vasser.png",
       "dependencies": []
     },
     "lib/media/the-erinye.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 387617,
       "exportedPath": "lib/media/the-erinye.png",
       "dependencies": []
     },
     "zresources/collision.png": {
-      "modifiedTime": 1740024672086,
+      "modifiedTime": 1740615679280,
       "sourceSize": 160970,
       "exportedPath": "zresources/collision.png",
       "dependencies": []
