@@ -1,6 +1,6 @@
 {
   "vaultName": "Empire of Steel",
-  "lastExport": 1762401645334,
+  "lastExport": 1762403141982,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon CG-workspace-background CG-workspace-background-image-custom CG-active-background CG-colorfulFolder CG-disableAni CG-MObsidian-sbt CG-custom-checkbox CG-OG-hr callout-alternate-line img-adj-list",
   "useCustomHeadContent": false,
@@ -198,8 +198,6 @@
     "zResources/Zina Kova.png",
     "zResources/Zoey Belmont.png",
     "Index.md",
-    "lib/media/null-street.png",
-    "lib/media/osric-kayne.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -241,6 +239,7 @@
     "lib/media/twisted-bioroid-2.png",
     "lib/media/cyberpapacy-cufflink.png",
     "lib/media/prometheus-message.png",
+    "lib/media/null-street.png",
     "lib/media/abel-kane.png",
     "lib/media/aidan-graves.png",
     "lib/media/graves'-rose-.72-heavy-pistol.png",
@@ -269,6 +268,7 @@
     "lib/media/nastasia-gwinelle.png",
     "lib/media/october-tallisi.png",
     "lib/media/oliver-gaskell.png",
+    "lib/media/osric-kayne.png",
     "lib/media/quinn-jackstadt.png",
     "lib/media/reality-black.png",
     "lib/media/simone-church.png",
@@ -1522,8 +1522,8 @@
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1758169521441,
-      "sourceSize": 2425,
+      "modifiedTime": 1762403141982,
+      "sourceSize": 2808,
       "exportedPath": "index.html",
       "dependencies": [
         "zresources/empire-of-steel-banner.png",
@@ -1927,157 +1927,157 @@
       "dependencies": []
     },
     "zresources/empire-of-steel-banner.png": {
-      "modifiedTime": 1758169521441,
+      "modifiedTime": 1762403141982,
       "sourceSize": 1004241,
       "exportedPath": "zresources/empire-of-steel-banner.png",
       "dependencies": []
     },
     "zresources/collision-the-a-spire-job.png": {
-      "modifiedTime": 1758169521441,
+      "modifiedTime": 1762403141982,
       "sourceSize": 127971,
       "exportedPath": "zresources/collision-the-a-spire-job.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 153804,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 165755,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 613236,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1762401645334,
-      "sourceSize": 5242,
+      "modifiedTime": 1762403141982,
+      "sourceSize": 2584,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 85926,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -2101,20 +2101,20 @@
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 105924,
       "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
       "dependencies": []
     },
     "lib/fonts/085cb93e613ba3d40d2b.woff2": {
-      "modifiedTime": 1762401645334,
+      "modifiedTime": 1762403141982,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
       "dependencies": []
     },
     "Operations/East End Boys & West End Girls - Part 1.md": {
-      "modifiedTime": 1762401645334,
-      "sourceSize": 5848,
+      "modifiedTime": 1762403141982,
+      "sourceSize": 5842,
       "exportedPath": "operations/east-end-boys-&-west-end-girls-part-1.html",
       "dependencies": []
     },
@@ -2157,8 +2157,8 @@
       "dependencies": []
     },
     "Operations/East End Boys & West End Girls - Part 6.md": {
-      "modifiedTime": 1762401645334,
-      "sourceSize": 4441,
+      "modifiedTime": 1762403141982,
+      "sourceSize": 5038,
       "exportedPath": "operations/east-end-boys-&-west-end-girls-part-6.html",
       "dependencies": []
     },
